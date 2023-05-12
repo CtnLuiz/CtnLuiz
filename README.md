@@ -4,8 +4,6 @@
 - Tenho interesse em linguagens de programação
 - Atualmente estou apredendo JavaScript
 
-![](https://media.tenor.com/VR54nvuHs1cAAAAC/really-oh.gif)
-
 
 <!---
 CtnLuiz/CtnLuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
